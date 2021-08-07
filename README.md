@@ -1,5 +1,5 @@
 # datasets
-Repo for storing datasets
+Repo for storing notbooks and related datasets
 
 
 MIMIC III DEMO
